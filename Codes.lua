@@ -1,0 +1,18 @@
+-- Codes are as follows. --
+
+-- 0 - "The next station is, Bank. Doors will open on the left hand side. Change here for Subland Metro and "Here to Air" services."
+-- 1 - "The next station is, Connsborough Interchange. Doors will open on the left hand side. Change here for Subland Metro."
+-- 2 - "The next station is, Darkton. Doors will open on the right hand side. The doors will open automatically at the next station."
+-- 3 - "The next station is, Meadowview. Doors will open on the left hand side. Change here for Subland Metro. The doors will open automatically at the next station."
+-- 4 - "The next station is, North Subland Villages. Doors will open on the left hand side. Change here for Greenfield & Northfield metro stations."
+-- 5 - "The next station is, Rosetree. Doors will open on the right hand side. Change here for Subland Metro. The doors will open automatically at the next station."
+-- 6 - "The next station is, Subland Airport. Doors will open on the left hand side. Change here for Subland Metro and "Here to Air" services."
+-- 7 - "The next station is, Green Hill. Doors will open on the right hand side. Change here for Subland Metro."
+-- 8 - "The next station is, Lower Subland. Doors will open on the left hand side. Change here for Subland Metro."
+-- 9 - "The next station is, Benham. Doors will open on the left hand side."
+-- 10 - "This train terminates here."
+-- 11 - "The next station is, Rosetree North. Change here for Subland Metro."
+-- 12 - "The next station is, Marie Beach. Doors will open on both sides."
+-- 15 - "This is, (Station). (Change here if necessary for the station)."
+-- 16 - "Subland Service Updates."
+-- 95 - "This train will not be stopping at Rosetree. Please change at Connsborough."
