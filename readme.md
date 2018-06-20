@@ -1,3 +1,5 @@
+[![Discord](https://discordapp.com/api/guilds/455714456299896836/widget.png)](https://discord.gg/tUfT2vg)
+
 # vDisplay
 Previously the exploited AEL Displays, now given out as Open Source
 
