@@ -7,10 +7,12 @@ These are my displays which have been running on the Airport Express Line for ar
 ## How To Set Up
 Setting up these displays can be a pain, however it's worth it for what you're given.
 
-1. Download the zip by clicking on the **Clone or Download** button.
-2. Click **Download Zip** and wait for the archive to download to your system.
-3. Extract the archive to a folder of your choosing.
-4. Open **Displays (rbxm)** and drag the file inside onto **ROBLOX Studio**. (This will insert the displays into your interface)
+1. Create a GitHub account. (Use your ROBLOX username when possible, makes it easier for me.)
+2. Click **Fork** at the top right of the repository, this will let me know who's using the displays and allow me to create a branch on the official repository for me to help out with anything code-related.
+3. Download the zip by clicking on the **Clone or Download** button.
+4. Click **Download Zip** and wait for the archive to download to your system.
+5. Extract the archive to a folder of your choosing.
+6. Open **Displays (rbxm)** and drag the file inside onto **ROBLOX Studio**. (This will insert the displays into your interface)
 (Steps coming soon)
 
 ## FAQ
