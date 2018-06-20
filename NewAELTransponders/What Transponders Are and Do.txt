@@ -1,0 +1,9 @@
+A transponder is an invisible block which the AEL's "Radio" part will hit to complete something to do with the displays.
+
+Each transponder has it's own script embedded in the part.
+
+Each transponder has a value titled "DisplayValue" embedded in the part.
+
+The Displays' "Radio" part will hit this block and read what value is on "DisplayValue".
+
+The value in the part must be one of the codes within "Codes.lua".
