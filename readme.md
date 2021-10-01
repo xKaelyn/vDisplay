@@ -1,4 +1,4 @@
-[![Discord](https://discordapp.com/api/guilds/455714456299896836/widget.png)](https://discord.gg/tUfT2vg)
+This repository is now archived as of Friday October 1st 2021.
 
 # vDisplay
 Previously the exploited AEL Displays, now given out as Open Source
